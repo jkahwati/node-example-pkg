@@ -1,0 +1,22 @@
+{
+  "name": "node-example-pkg",
+  "version": "1.0.0",
+  "description": "Example pkg",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkahwati/node-example-pkg.git"
+  },
+  "author": "Jesus Kahwati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkahwati/node-example-pkg/issues"
+  },
+  "homepage": "https://github.com/jkahwati/node-example-pkg#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
